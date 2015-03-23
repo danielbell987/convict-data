@@ -1,4 +1,4 @@
-# convict-data
+# Convict's Last Statements Dataset
 
 This repository relates to data regarding Texas state exucutions.
 
